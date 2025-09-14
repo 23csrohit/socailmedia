@@ -1,3 +1,6 @@
+# LIVE VIDEO
+https://file.notion.so/f/f/79edd5a1-76bd-46aa-b891-d73307de0357/c4a1702e-85eb-43b5-8b1d-252dcb4b355b/socialrun1.mp4?table=block&id=af62cbc0-29ff-44fe-8ada-f29e0432ac9c&spaceId=79edd5a1-76bd-46aa-b891-d73307de0357&expirationTimestamp=1757865600000&signature=dTGWO-1gwGFQJebgO2wzJSK0mnMvN089y2DGfVbzEo8
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# LIVE VIDEO
-https://file.notion.so/f/f/79edd5a1-76bd-46aa-b891-d73307de0357/c4a1702e-85eb-43b5-8b1d-252dcb4b355b/socialrun1.mp4?table=block&id=af62cbc0-29ff-44fe-8ada-f29e0432ac9c&spaceId=79edd5a1-76bd-46aa-b891-d73307de0357&expirationTimestamp=1757865600000&signature=dTGWO-1gwGFQJebgO2wzJSK0mnMvN089y2DGfVbzEo8
+
 
