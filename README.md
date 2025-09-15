@@ -1,5 +1,5 @@
 # LIVE VIDEO
-c:\Users\rkyo1\Downloads\socialrun1.mp4
+
 
 # Getting Started with Create React App
 
